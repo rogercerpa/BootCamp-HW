@@ -1,19 +1,68 @@
+html {
+    height: 100%;
+}
+
 body {
-    background-color: gray;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    background-color: #4aaaa5;
+    font-famaly: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
 header {
-    background-color: white;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    background-color:#ffffff;
     margin: 0;
     padding: 1px;
 
 }
 
 #name {
+    background-color:#4aaaa5;
+    color: 
+    font-size: 32px;
+    float: left;
+    padding: 10px;
+
+}
+
+#about {
+    float: right;
+    padding: 10px;
+
+}
+
+#portfolio {
+    float: right;
+    padding: 10px;
+}
+
+#contact {
+    float: right;
+    padding: 10px;
+}
+
+#aboutme {
+    clear: both;
+}
+
+
+.content {
+    background-color:#ff8a00;
+    flex: 1 0 auto;
+}
+
+#name {
     padding:20;
 }
 
-footer {
-    background-color: white;
-    
+#footer {
+    flex-shrink: 0;
+    text-align: center;
+    background-color: #666666;
+    border-top: 8px solid #4aaaa5;
+
+    padding:20px;
+
 }

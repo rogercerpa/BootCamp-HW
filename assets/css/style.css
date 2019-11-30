@@ -14,7 +14,6 @@ header {
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     background-color:#ffffff;
     margin: 0;
-    padding: 20px;
     padding-left: 170px;
     padding-right: 170px;
     border-bottom: 2px solid gray;
@@ -59,7 +58,7 @@ header {
     font-weight: bold;
     padding-top: 40px;
     padding-bottom: 20px;
-    padding-left: 20px;
+    /*padding-left: 0px;*/
     border-bottom: 2px solid gray;
     margin: 20px;
 }
@@ -74,14 +73,14 @@ header {
     margin:40px;
     margin-left: 170px;
     margin-right: 170px;
-    border: 1.5px solid gray;
+    border: 1.5px solid lightgray;
     background-color: #ffffff;
 
 }
 
 #roger-image {
     float: left;
-    padding: 30px;
+    padding: 20px;
 }
 
 #paragraph1 {

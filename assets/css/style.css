@@ -15,6 +15,9 @@ header {
     background-color:#ffffff;
     margin: 0;
     padding: 20px;
+    padding-left: 170px;
+    padding-right: 170px;
+    margin-bottom: 3px;
 
 }
 
@@ -23,7 +26,11 @@ header {
     color: white;
     font-size: 32px;
     float: left;
-    padding: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
      
 
 }
@@ -31,6 +38,7 @@ header {
 #about {
     float: right;
     padding: 10px;
+    color:gray;
 
 }
 
@@ -45,7 +53,7 @@ header {
 }
 
 #aboutme {
-    clear: both;
+    /*clear: both;*/
 }
 
 
@@ -53,13 +61,12 @@ header {
     padding-right: 170px;
     padding-left:170px;
     padding-top: 35px;
-    background-color:#ff8a00;
+    background-color:lightgray;
     flex: 1 0 auto;
 }
 
 #content1 {
     background-color: #ffffff;
-    border:5px;
 
 }
 

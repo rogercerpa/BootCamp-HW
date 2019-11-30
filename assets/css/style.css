@@ -52,12 +52,15 @@ header {
 .content {
     padding-right: 170px;
     padding-left:170px;
+    padding-top: 35px;
     background-color:#ff8a00;
     flex: 1 0 auto;
 }
 
-#content {
+#content1 {
     background-color: #ffffff;
+    border:5px;
+
 }
 
 #name {

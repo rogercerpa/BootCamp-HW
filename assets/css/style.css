@@ -23,6 +23,7 @@ header {
 
 #name {
     background-color:#4aaaa5;
+    font-weight: bold;
     color: white;
     font-size: 32px;
     float: left;
@@ -54,6 +55,12 @@ header {
 
 #aboutme {
     /*clear: both;*/
+    font-size: 32px;
+    color:#4aaaa5;
+    font-weight: bold;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    padding-left: 20px;
 }
 
 
@@ -68,6 +75,14 @@ header {
 #content1 {
     background-color: #ffffff;
 
+}
+
+#roger-image {
+    padding: 30px;
+}
+
+#paragraph1 {
+    float: left;
 }
 
 #name {

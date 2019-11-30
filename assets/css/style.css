@@ -32,6 +32,7 @@ header {
     padding-top: 40px;
     padding-bottom: 40px;
     
+    
 }
 
 #about {
@@ -67,21 +68,30 @@ header {
 }
 
 #content1 {
+    float:left;
+    margin:40px;
+    margin-left: 170px;
+    margin-right: 170px;
+    border: 2px solid gray;
     background-color: #ffffff;
 
 }
 
 #roger-image {
+    float: left;
     padding: 30px;
 }
 
 #paragraph1 {
     float: left;
+    padding:20px;
 }
 
-#name {
-    padding:20;
+#paragraph2 {
+    float: left;
+    padding:20px;
 }
+
 
 #footer {
     flex-shrink: 0;

@@ -85,11 +85,13 @@ header {
 #paragraph1 {
     float: left;
     padding:20px;
+    line-height: 2;
 }
 
 #paragraph2 {
     float: left;
     padding:20px;
+    line-height: 2;
 }
 
 

@@ -7,23 +7,24 @@ body {
     display: flex;
     flex-direction: column;
     background-color: #4aaaa5;
-    font-famaly: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
 header {
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     background-color:#ffffff;
     margin: 0;
-    padding: 1px;
+    padding: 20px;
 
 }
 
 #name {
     background-color:#4aaaa5;
-    color: 
+    color: white;
     font-size: 32px;
     float: left;
-    padding: 10px;
+    padding: 15px;
+     
 
 }
 
@@ -49,8 +50,14 @@ header {
 
 
 .content {
+    padding-right: 170px;
+    padding-left:170px;
     background-color:#ff8a00;
     flex: 1 0 auto;
+}
+
+#content {
+    background-color: #ffffff;
 }
 
 #name {
@@ -62,7 +69,7 @@ header {
     text-align: center;
     background-color: #666666;
     border-top: 8px solid #4aaaa5;
-
+    color:#ffffff;
     padding:20px;
-
+    
 }

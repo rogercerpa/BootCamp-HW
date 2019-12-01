@@ -12,7 +12,7 @@ body {
 
 header {
     font-family: 'Georgia', Times, 'Times New Roman', serif;
-    background-color:#ffffff;
+    background-color:#D1C7C5;
     margin: 0;
     padding-left: 170px;
     padding-right: 170px;
@@ -74,7 +74,7 @@ header {
     margin-left: 170px;
     margin-right: 170px;
     border: 1.5px solid lightgray;
-    background-color: #ffffff;
+    background-color: #D1C7C5;
 
 }
 
@@ -84,12 +84,14 @@ header {
 }
 
 #paragraph1 {
+    font-size: 20px;
     float: left;
     padding:20px;
     line-height: 2;
 }
 
 #paragraph2 {
+    font-size: 20px;
     float: left;
     padding:20px;
     line-height: 2;
@@ -99,7 +101,7 @@ header {
 #footer {
     flex-shrink: 0;
     text-align: center;
-    background-color: #666666;
+    background-color: #D1C7C5;
     border-top: 8px solid #4aaaa5;
     color:#ffffff;
     padding:20px;

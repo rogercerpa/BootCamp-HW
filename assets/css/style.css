@@ -84,6 +84,7 @@ header {
 }
 
 #content1 {
+    overflow: auto;
     float:left;
     margin:40px;
     margin-left: 300px;
@@ -91,6 +92,9 @@ header {
     border: 1.5px solid lightgray;
     background-color: #D1C7C5;
 
+}
+#content2 {
+    
 }
 
 #roger-image {

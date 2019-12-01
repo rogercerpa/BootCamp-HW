@@ -12,7 +12,7 @@ body {
 
 header {
     font-family: 'Georgia', Times, 'Times New Roman', serif;
-    background-color:#D1C7C5;
+    background-color:#BABEBF;
     margin: 0;
     padding-left: 300px;
     padding-right: 300px;
@@ -89,7 +89,7 @@ header {
     margin-left: 300px;
     margin-right: 300px;
     border: 1.5px solid lightgray;
-    background-color: #D1C7C5;
+    background-color: #BABEBF;
 
 }
 
@@ -114,7 +114,7 @@ header {
 #footer {
     flex-shrink: 0;
     text-align: center;
-    background-color: #D1C7C5;
+    background-color: #BABEBF;
     border-top: 8px solid #4aaaa5;
     color:#ffffff;
     padding:15px;

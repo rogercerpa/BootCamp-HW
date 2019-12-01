@@ -15,7 +15,7 @@ header {
     background-color:#BABEBF;
     margin: 0;
     padding-left: 300px;
-    padding-right: 300px;
+    padding-right: 250px;
     border-bottom: 2px solid gray;
 
 }
@@ -28,43 +28,41 @@ header {
     float: left;
     padding-left: 15px;
     padding-right: 15px;
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding-top: 45px;
+    padding-bottom: 45px;
     
     
 }
 
-#about {
+/*styling for the CONTACT, PORTFOLIO and ABOUT buttons*/
+
+.contact-portfolio-about {
     float: right;
+    padding:20px;
+    margin:30px;
+    font-size: 20px;
     padding-right: 2px solid gray;
-    color:gray;
-    border-top: 20px;
-    border-bottom: 20px;
-    border-left: 20px;
-    border-right: 20px;
-
+   
 }
 
-#portfolio {
-    float: right;
-    padding-right: 2px solid gray;
+#about1 {
     color:gray;
-    border-top: 20px;
-    border-bottom: 20px;
-    border-left: 20px;
-    border-right: 20px;
-
-}
-
-#contact {
-    float: right;
     
-    color:green;
-    border-top: 20px;
-    border-bottom: 20px;
-    border-left: 20px;
-    border-right: 20px;
 }
+
+#portfolio1 {
+    
+    color:gray;
+    
+
+}
+
+#contact1 {
+      color:gray;
+   
+}
+
+/*styling for the main content of the website*/
 
 #aboutme {
     font-size: 32px;

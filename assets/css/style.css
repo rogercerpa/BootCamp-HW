@@ -71,8 +71,8 @@ header {
 #content1 {
     float:left;
     margin:40px;
-    margin-left: 170px;
-    margin-right: 170px;
+    margin-left: 300px;
+    margin-right: 300px;
     border: 1.5px solid lightgray;
     background-color: #D1C7C5;
 
@@ -102,6 +102,11 @@ header {
     background-color: #D1C7C5;
     border-top: 8px solid #4aaaa5;
     color:#ffffff;
-    padding:20px;
+    padding:15px;
     
+}
+
+#footer-paragraph {
+    font-size: 12px;
+    padding-top: 25px;
 }

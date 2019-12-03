@@ -57,6 +57,9 @@ styling for the CONTACT, PORTFOLIO and ABOUT buttons
 
 }
 */
+
+/*styling for all the content of the site*/
+
 #contact1 {
       color:gray;
    
@@ -85,7 +88,7 @@ styling for the CONTACT, PORTFOLIO and ABOUT buttons
     margin: 20px;
 }
 
-
+/*styling for the form creater */
 
 /* Style inputs with type="text", select elements and textareas */
 input[type=text], select, textarea {

@@ -1,4 +1,4 @@
-html {
+/*html {
     height: 100%;
 }
 
@@ -34,7 +34,7 @@ header {
     
 }
 
-/*styling for the CONTACT, PORTFOLIO and ABOUT buttons*/
+styling for the CONTACT, PORTFOLIO and ABOUT buttons
 
 .contact-portfolio-about {
     float: right;
@@ -61,6 +61,7 @@ header {
       color:gray;
    
 }
+*/
 
 #portfolio-list {
     /*clear: both;*/
@@ -106,6 +107,7 @@ header {
     line-height: 2;
 }
 
+/*
 
 #footer {
     flex-shrink: 0;
@@ -121,3 +123,4 @@ header {
     font-size: 12px;
     padding-top: 25px;
 }
+*/

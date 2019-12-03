@@ -1,4 +1,4 @@
-html {
+/*html {
     height: 100%;
 }
 
@@ -34,7 +34,7 @@ header {
     
 }
 
-/*styling for the CONTACT, PORTFOLIO and ABOUT buttons*/
+styling for the CONTACT, PORTFOLIO and ABOUT buttons
 
 .contact-portfolio-about {
     float: right;
@@ -56,7 +56,7 @@ header {
     
 
 }
-
+*/
 #contact1 {
       color:gray;
    
@@ -122,7 +122,7 @@ input[type=text], select, textarea {
   }
 
 
-
+/*
 #footer {
     flex-shrink: 0;
     text-align: center;
@@ -137,3 +137,4 @@ input[type=text], select, textarea {
     font-size: 12px;
     padding-top: 25px;
 }
+*/

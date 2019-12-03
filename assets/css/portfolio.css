@@ -80,6 +80,7 @@ styling for the CONTACT, PORTFOLIO and ABOUT buttons
 
 .content {
     flex: 1 0 auto;
+    position: relative;
 }
 
 #content1 {

@@ -78,12 +78,12 @@ styling for the CONTACT, PORTFOLIO and ABOUT buttons
 }
 
 
-.content {
+.content-portfolio {
     flex: 1 0 auto;
     position: relative;
 }
 
-#content1 {
+#content1-portfolio {
     float:left;
     margin:40px;
     margin-left: 300px;

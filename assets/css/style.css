@@ -76,11 +76,11 @@ header {
 }
 
 
-.content {
+.content-index {
     flex: 1 0 auto;
 }
 
-#content1 {
+#content1-index {
     overflow: auto;
     float:left;
     margin:40px;

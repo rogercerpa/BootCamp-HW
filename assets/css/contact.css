@@ -64,17 +64,17 @@ styling for the CONTACT, PORTFOLIO and ABOUT buttons
       color:gray;
    
 }
-.content {
+.content-contact {
     flex: 1 0 auto;
     position: relative;
 }
 
-#content1 {
+#content1-contact {
     width:960px;
     float:left;
-    /* margin:40px;
-    margin-left: 550px;
-    margin-right: 400px; */
+    margin-top:40px;
+    margin-left: 300px;
+    margin-right: 300px;
     border: 1.5px solid lightgray;
     background-color: #BABEBF;
     /* padding-right: 500px; */

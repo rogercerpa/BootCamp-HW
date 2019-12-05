@@ -1,19 +1,6 @@
 
 /* all styling for the main content of the site*/
 
-#portfolio-list {
-    /*clear: both;*/
-    font-size: 32px;
-    color:#4aaaa5;
-    font-weight: bold;
-    padding-top: 40px;
-    padding-bottom: 20px;
-    /*padding-left: 0px;*/
-    border-bottom: 2px solid gray;
-    margin: 20px;
-}
-
-
 .content-portfolio {
     flex: 1 0 auto;
     position: relative;
@@ -31,6 +18,19 @@
 
 }
 
+#portfolio-list {
+    /*clear: both;*/
+    font-size: 32px;
+    color:#4aaaa5;
+    font-weight: bold;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    /*padding-left: 0px;*/
+    border-bottom: 2px solid gray;
+    margin: 20px;
+}
+
+
 #roger-image {
     float: left;
     padding: 20px;
@@ -42,17 +42,5 @@
     font-size: 16px;
     position: relative;
 
-}
-
-#paragraph1 {
-    font-size: 20px;
-    padding:20px;
-    line-height: 2;
-}
-
-#paragraph2 {
-    font-size: 20px;
-    padding:20px;
-    line-height: 2;
 }
 

@@ -112,6 +112,12 @@ header {
     line-height: 2;
 }
 
+#paragraph3 {
+    font-size: 20px;
+    padding:20px;
+    line-height: 2;
+}
+
 /*Footer styling for all the html files*/
 
 #footer {

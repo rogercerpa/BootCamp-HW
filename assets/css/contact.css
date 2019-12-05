@@ -1,62 +1,4 @@
-/*html {
-    height: 100%;
-}
 
-body {
-    height: 100%;
-    display: flex;
-    flex-direction: column;
-    background-image: url("../image/background-image2.png");
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-}
-
-header {
-    font-family: 'Georgia', Times, 'Times New Roman', serif;
-    background-color:#BABEBF;
-    margin: 0;
-    padding-left: 550px;
-    padding-right: 550px;
-    border-bottom: 2px solid gray;
-
-}
-
-#name {
-    background-color:#4aaaa5;
-    font-weight: bold;
-    color: white;
-    font-size: 32px;
-    float: left;
-    padding-left: 15px;
-    padding-right: 15px;
-    padding-top: 45px;
-    padding-bottom: 45px;
-    
-    
-}
-
-styling for the CONTACT, PORTFOLIO and ABOUT buttons
-
-.contact-portfolio-about {
-    float: right;
-    padding:20px;
-    margin:30px;
-    font-size: 20px;
-    padding-right: 2px solid gray;
-   
-}
-
-#about1 {
-    color:gray;
-    
-}
-
-#portfolio1 {
-    
-    color:gray;
-    
-
-}
-*/
 
 /*styling for all the content of the site*/
 
@@ -133,20 +75,3 @@ input[type=text], select, textarea {
     padding: 20px;
   }
 
-
-/*
-#footer {
-    flex-shrink: 0;
-    text-align: center;
-    background-color: #BABEBF;
-    border-top: 8px solid #4aaaa5;
-    color:#ffffff;
-    padding:15px;
-    
-}
-
-#footer-paragraph {
-    font-size: 12px;
-    padding-top: 25px;
-}
-*/

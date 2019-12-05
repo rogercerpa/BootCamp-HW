@@ -14,8 +14,8 @@ header {
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     background-color:#BABEBF;
     margin: 0;
-    padding-left: 300px;
-    padding-right: 250px;
+    padding-left: 450px;
+    padding-right: 470px;
     border-bottom: 2px solid gray;
 
 }
@@ -38,7 +38,7 @@ header {
 
 .contact-portfolio-about {
     float: right;
-    padding:20px;
+    padding: 15px;
     margin:30px;
     font-size: 20px;
     padding-right: 2px solid gray;
@@ -81,10 +81,11 @@ header {
 }
 
 #content1-index {
+    width: 960px;
     overflow: auto;
     float:left;
     margin:40px;
-    margin-left: 300px;
+    margin-left: 450px;
     margin-right: 300px;
     border: 1.5px solid lightgray;
     background-color: #BABEBF;

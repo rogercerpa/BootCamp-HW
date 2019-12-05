@@ -73,7 +73,7 @@ styling for the CONTACT, PORTFOLIO and ABOUT buttons
     width:960px;
     float:left;
     margin-top:40px;
-    margin-left: 300px;
+    margin-left: 450px;
     margin-right: 300px;
     border: 1.5px solid lightgray;
     background-color: #BABEBF;
@@ -92,8 +92,8 @@ styling for the CONTACT, PORTFOLIO and ABOUT buttons
 }
 
 #formcreator {
-    /* margin: 20px;
-    padding-left: 200px;
+    margin: 20px;
+    /* padding-left: 200px;
     padding-right: 50px; */
 }
 

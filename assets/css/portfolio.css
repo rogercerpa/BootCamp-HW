@@ -81,12 +81,14 @@ styling for the CONTACT, PORTFOLIO and ABOUT buttons
 .content-portfolio {
     flex: 1 0 auto;
     position: relative;
+
 }
 
 #content1-portfolio {
+    width: 960px;
     float:left;
     margin:40px;
-    margin-left: 300px;
+    margin-left: 450px;
     margin-right: 300px;
     border: 1.5px solid lightgray;
     background-color: #BABEBF;
@@ -96,6 +98,14 @@ styling for the CONTACT, PORTFOLIO and ABOUT buttons
 #roger-image {
     float: left;
     padding: 20px;
+}
+
+.image-name {
+    background-color: aqua;
+    color: black;
+    font-size: 16px;
+    position: relative;
+
 }
 
 #paragraph1 {

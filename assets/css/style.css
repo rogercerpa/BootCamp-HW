@@ -1,136 +1,121 @@
 html {
-    height: 100%;
+	height: 100%;
 }
 
 body {
-    height: 100%;
-    display: flex;
-    flex-direction: column;
-    background-image: url("../image/background-image2.png");
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	background-image: url("../image/background-image2.png");
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
 header {
-    font-family: 'Georgia', Times, 'Times New Roman', serif;
-    background-color:#BABEBF;
-    margin: 0;
-    padding-left: 450px;
-    padding-right: 470px;
-    border-bottom: 2px solid gray;
-
+	font-family: 'Georgia', Times, 'Times New Roman', serif;
+	background-color: #babebf;
+	margin: 0;
+	padding-left: 450px;
+	padding-right: 470px;
+	border-bottom: 2px solid gray;
 }
 
 #name {
-    background-color:#4aaaa5;
-    font-weight: bold;
-    color: white;
-    font-size: 32px;
-    float: left;
-    padding-left: 15px;
-    padding-right: 15px;
-    padding-top: 45px;
-    padding-bottom: 45px;
-    
-    
+	background-color: #4aaaa5;
+	font-weight: bold;
+	color: white;
+	font-size: 32px;
+	float: left;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 45px;
+	padding-bottom: 45px;
 }
 
 /*styling for the CONTACT, PORTFOLIO and ABOUT buttons*/
 
 .contact-portfolio-about {
-    float: right;
-    padding: 15px;
-    margin:30px;
-    font-size: 20px;
-    padding-right: 2px solid gray;
-    position: relative;
-   
+	float: right;
+	padding: 15px;
+	margin: 30px;
+	font-size: 20px;
+	padding-right: 2px solid gray;
+	position: relative;
 }
 
 #about1 {
-    color:gray;
-    
+	color: gray;
 }
 
 #portfolio1 {
-    
-    color:gray;
-    
-
+	color: gray;
 }
 
 #contact1 {
-      color:gray;
-   
+	color: gray;
 }
 
 /*styling for the main content of the website*/
 
 #aboutme {
-    font-size: 32px;
-    color:#4aaaa5;
-    font-weight: bold;
-    padding-top: 40px;
-    padding-bottom: 20px;
-    border-bottom: 2px solid gray;
-    margin: 20px;
+	font-size: 32px;
+	color: #4aaaa5;
+	font-weight: bold;
+	padding-top: 40px;
+	padding-bottom: 20px;
+	border-bottom: 2px solid gray;
+	margin: 20px;
 }
 
-
 .content-index {
-    flex: 1 0 auto;
+	flex: 1 0 auto;
 }
 
 #content1-index {
-    width: 960px;
-    overflow: auto;
-    float:left;
-    margin:40px;
-    margin-left: 450px;
-    margin-right: 300px;
-    border: 1.5px solid lightgray;
-    background-color: #BABEBF;
-
-}
-#content2 {
-
+	width: 960px;
+	overflow: auto;
+	float: left;
+	margin: 40px;
+	margin-left: 450px;
+	margin-right: 300px;
+	border: 1.5px solid lightgray;
+	background-color: #babebf;
 }
 
 #roger-image-index {
-    float: left;
-    padding: 20px;
+	float: left;
+	padding: 20px;
 }
 
 #paragraph1 {
-    font-size: 20px;
-    padding:20px;
-    line-height: 2;
+	font-size: 20px;
+	padding: 20px;
+	line-height: 2;
 }
 
 #paragraph2 {
-    font-size: 20px;
-    padding:20px;
-    line-height: 2;
+	font-size: 20px;
+	padding: 20px;
+	line-height: 2;
 }
 
 #paragraph3 {
-    font-size: 20px;
-    padding:20px;
-    line-height: 2;
+	font-size: 20px;
+	padding: 20px;
+	line-height: 2;
 }
 
 /*Footer styling for all the html files*/
 
 #footer {
-    flex-shrink: 0;
-    text-align: center;
-    background-color: #BABEBF;
-    border-top: 8px solid #4aaaa5;
-    color:#ffffff;
-    padding:15px;
-    
+	flex-shrink: 0;
+	text-align: center;
+	background-color: #babebf;
+	border-top: 8px solid #4aaaa5;
+	color: #ffffff;
+	padding: 15px;
 }
 
 #footer-paragraph {
-    font-size: 12px;
-    padding-top: 25px;
+	font-size: 12px;
+	padding-top: 25px;
 }

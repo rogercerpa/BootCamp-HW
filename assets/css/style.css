@@ -56,6 +56,13 @@ header {
 
 /*styling for the main content of the website*/
 
+.container {
+	background-color: #babebf;
+	border: 1.5px solid lightgray;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
 #aboutme {
 	font-size: 32px;
 	color: #4aaaa5;

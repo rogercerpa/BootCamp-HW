@@ -3,9 +3,8 @@
 #contact1 {
 	color: gray;
 }
-.content-contact {
+.container {
 	flex: 1 0 auto;
-	position: relative;
 }
 
 #content1-contact {

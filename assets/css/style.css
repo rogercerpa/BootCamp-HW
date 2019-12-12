@@ -1,3 +1,11 @@
+.bg-RCcolor {
+	background-color: #babebf;
+}
+
+.navbar-brand {
+	background-color: #4aaaa5;
+}
+
 html {
 	height: 100%;
 }

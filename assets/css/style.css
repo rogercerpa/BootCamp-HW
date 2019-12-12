@@ -1,65 +1,65 @@
-.bg-RCcolor {
-	background-color: #babebf;
-}
-
-.navbar-brand {
-	background-color: #4aaaa5;
-}
-
 html {
 	height: 100%;
 }
 
 body {
-	height: 100%;
-	display: flex;
-	flex-direction: column;
 	background-image: url("../image/background-image2.png");
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
-header {
-	font-family: 'Georgia', Times, 'Times New Roman', serif;
+/* header styling */
+
+.header {
+	width: 100%;
+	height: 100px;
+	display: block;
 	background-color: #babebf;
-	margin: 0;
-	padding-left: 450px;
-	padding-right: 470px;
-	border-bottom: 2px solid gray;
 }
 
-#name {
+.inner-header {
+	width: 1145px;
+	height: 100%;
+	display: block;
+	margin: 0;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.my-name {
+	height: 100%;
+	display: table;
+	float: left;
+}
+
+.my-name h1 {
 	background-color: #4aaaa5;
-	font-weight: bold;
+	font-weight: 200;
 	color: white;
 	font-size: 32px;
 	float: left;
-	padding-left: 15px;
-	padding-right: 15px;
-	padding-top: 45px;
-	padding-bottom: 45px;
+	height: 100%;
+	display: table-cell;
+	vertical-align: middle;
 }
 
-/*styling for the CONTACT, PORTFOLIO and ABOUT buttons*/
-
-.contact-portfolio-about {
+.navigation {
 	float: right;
-	padding: 15px;
-	margin: 30px;
+	height: 100%;
+}
+
+.navigation a {
+	height: 100%;
+	display: table;
+	float: left;
+	padding: 0px 20px;
+}
+
+.navigation a li {
+	display: table-cell;
+	vertical-align: middle;
+	height: 100%;
+	color: gray;
 	font-size: 20px;
-	padding-right: 2px solid gray;
-	position: relative;
-}
-
-#about1 {
-	color: gray;
-}
-
-#portfolio1 {
-	color: gray;
-}
-
-#contact1 {
-	color: gray;
 }
 
 /*styling for the main content of the website*/

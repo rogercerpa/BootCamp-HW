@@ -4,5 +4,4 @@ GATECH-2019/2020-BootCamp  HomeWork-#1
 
 Description:
 
-
-Dive in and learn the creative world of Roger Cerpa. On his portfolio website, you will find 
+The site tells the story of Roger. It includes all his projects from start to finish on this Coding Bootcamp.

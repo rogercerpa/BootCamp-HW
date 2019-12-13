@@ -135,4 +135,13 @@ body {
 #footer-paragraph {
 	font-size: 12px;
 	padding-top: 25px;
+	text-align: center;
+	margin: auto;
+}
+
+.navbar-brand {
+}
+
+.bg-light navbar-light {
+	background-color: #babebf;
 }

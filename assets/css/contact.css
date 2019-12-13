@@ -1,7 +1,4 @@
 /*styling for all the content of the site*/
-body {
-	display: flex;
-}
 #contact1 {
 	color: gray;
 }
@@ -35,39 +32,6 @@ body {
 	/* padding-left: 200px;
     padding-right: 50px; */
 }
-
-/*styling for the form creater */
-
-/* This form was created and provided by https://www.w3schools.com/howto/howto_css_contact_form.asp */
-
-/* Style inputs with type="text", select elements and textareas */
-/* input[type=text],
-select, */
-/* textarea {
-	width: 100%;
-	padding: 12px; 
-	border: 1.5px solid #ccc; 
-	border-radius: 4px; 
-	box-sizing: border-box; 
-	margin-top: 6px; 
-	margin-bottom: 16px; 
-	resize: vertical; 
-} */
-
-/* Style the submit button with a specific background color etc */
-/* input[type=submit] {
-	background-color: #4caf50;
-	color: white;
-	padding: 12px 20px;
-	border: none;
-	border-radius: 4px;
-	cursor: pointer;
-} */
-
-/* When moving the mouse over the submit button, add a darker green color */
-/* input[type=submit]:hover {
-	background-color: #45a049;
-} */
 
 /* Add a background color and some padding around the form */
 .container {

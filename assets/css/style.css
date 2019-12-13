@@ -3,6 +3,8 @@ html {
 }
 
 body {
+	height: 100%;
+	flex-direction: column;
 	background-image: url("../image/background-image2.png");
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }

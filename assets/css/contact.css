@@ -1,5 +1,7 @@
 /*styling for all the content of the site*/
-
+body {
+	display: flex;
+}
 #contact1 {
 	color: gray;
 }

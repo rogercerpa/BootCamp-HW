@@ -13,9 +13,13 @@ body {
 
 .header {
 	width: 100%;
-	height: 100px;
+	height: 300px;
 	/* display: block; */
-	background-color: #babebf;
+	background: transparent;
+}
+
+.media-links {
+	float: right !important;
 }
 
 .inner-header {
@@ -27,10 +31,8 @@ body {
 	margin-right: auto;
 }
 
-.my-name {
-	height: 100%;
-	display: table;
-	float: left;
+#myName {
+	font-size: 60px;
 }
 
 .my-name h1 {

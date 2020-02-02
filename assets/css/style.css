@@ -6,7 +6,7 @@ html {
 body {
 	height: 100%;
 	flex-direction: column;
-	background-image: url("../image/background-image2.png");
+	background-image: url("../image/grunge_wall.png");
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
@@ -43,17 +43,6 @@ body {
 	font-size: 60px;
 }
 
-.my-name h1 {
-	background-color: #4aaaa5;
-	font-weight: 200;
-	color: white;
-	font-size: 32px;
-	float: left;
-	height: 100%;
-	display: table-cell;
-	vertical-align: middle;
-}
-
 .navigation {
 	float: right;
 	height: 100%;
@@ -77,19 +66,20 @@ body {
 /*styling for the main content of the website*/
 
 .container {
-	background-color: #babebf;
-	border: 1.5px solid lightgray;
+	/* background-color: #babebf;
+	opacity: .7; */
+	/* border: 1.5px solid lightgray; */
 	margin-top: 40px;
 	margin-bottom: 40px;
 }
 
 #aboutme {
 	font-size: 32px;
-	color: #4aaaa5;
+	color: black;
 	font-weight: bold;
 	padding-top: 40px;
 	padding-bottom: 20px;
-	border-bottom: 2px solid gray;
+
 	margin: 20px;
 }
 
@@ -108,27 +98,31 @@ body {
 	background-color: #babebf;
 }
 
-#roger-image-index {
+#roger-image {
 	float: left;
 	padding: 20px;
+	border-radius: 10px;
 }
 
 #paragraph1 {
 	font-size: 20px;
 	padding: 20px;
 	line-height: 2;
+	color: black;
 }
 
 #paragraph2 {
 	font-size: 20px;
 	padding: 20px;
 	line-height: 2;
+	color: black;
 }
 
 #paragraph3 {
 	font-size: 20px;
 	padding: 20px;
 	line-height: 2;
+	color: black;
 }
 
 /*Footer styling for all the html files*/

@@ -5,7 +5,7 @@
 	/* position: relative; */
 }
 
-#content1-portfolio {
+/* #content1-portfolio {
 	width: 960px;
 	height: 500px;
 	float: left;
@@ -14,9 +14,9 @@
 	margin-right: 300px;
 	border: 1.5px solid lightgray;
 	background-color: #babebf;
-}
+} */
 
-#portfolio-list {
+/* #portfolio-list {
 	font-size: 32px;
 	color: #4aaaa5;
 	font-weight: bold;
@@ -24,9 +24,10 @@
 	padding-bottom: 20px;
 	border-bottom: 2px solid gray;
 	margin: 20px;
-}
+} */
 
-.image-name {
+.project-images {
 	background-color: black;
 	color: white;
+	border-radius: 20px;
 }

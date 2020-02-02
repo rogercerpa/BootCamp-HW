@@ -1,5 +1,6 @@
 html {
 	height: 100%;
+	box-sizing: border-box;
 }
 
 body {
@@ -16,6 +17,13 @@ body {
 	height: 300px;
 	/* display: block; */
 	background: transparent;
+}
+
+.nav-item {
+	margin: 20px;
+}
+.image-icon {
+	margin-left: 10px;
 }
 
 .media-links {

@@ -2,36 +2,19 @@
 
 .container {
 	flex: 1 0 auto;
-	/* position: relative; */
 }
-
-/* #content1-portfolio {
-	width: 960px;
-	height: 500px;
-	float: left;
-	margin-top: 40px;
-	margin-left: 450px;
-	margin-right: 300px;
-	border: 1.5px solid lightgray;
-	background-color: #babebf;
-} */
-
-/* #portfolio-list {
-	font-size: 32px;
-	color: #4aaaa5;
-	font-weight: bold;
-	padding-top: 40px;
-	padding-bottom: 20px;
-	border-bottom: 2px solid gray;
-	margin: 20px;
-} */
 
 .project-images {
 	background-color: black;
-	color: white;
 	border-radius: 20px;
-	float: ;
 }
+
 .row {
 	margin: 20px;
+}
+
+.image-name {
+	/* background-color: white; */
+	font-size: 16px;
+	font-weight: bold;
 }

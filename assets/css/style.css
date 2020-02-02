@@ -15,10 +15,9 @@ body {
 .header {
 	width: 100%;
 	height: 300px;
-	/* display: block; */
 	background: transparent;
 }
-
+/* navbar icons styling */
 .nav-item {
 	margin: 20px;
 }
@@ -29,52 +28,21 @@ body {
 .media-links {
 	float: right !important;
 }
-
-.inner-header {
-	width: 1145px;
-	height: 100%;
-	display: block;
-	margin: 0;
-	margin-left: auto;
-	margin-right: auto;
-}
-
+/* main logo and title */
 #myName {
-	font-size: 60px;
-}
-
-.navigation {
-	float: right;
-	height: 100%;
-}
-
-.navigation a {
-	height: 100%;
-	display: table;
-	float: left;
-	padding: 0px 20px;
-}
-
-.navigation a li {
-	display: table-cell;
-	vertical-align: middle;
-	height: 100%;
-	color: gray;
-	font-size: 20px;
+	font-weight: bold;
+	font-size: 40px;
 }
 
 /*styling for the main content of the website*/
 
 .container {
-	/* background-color: #babebf;
-	opacity: .7; */
-	/* border: 1.5px solid lightgray; */
 	margin-top: 40px;
 	margin-bottom: 40px;
 }
 
 #aboutme {
-	font-size: 32px;
+	font-size: 28px;
 	color: black;
 	font-weight: bold;
 	padding-top: 40px;
@@ -143,9 +111,7 @@ body {
 	margin: auto;
 }
 
-.navbar-brand {
-}
+/* media queries */
 
-.bg-light navbar-light {
-	background-color: #babebf;
+@media () {
 }
